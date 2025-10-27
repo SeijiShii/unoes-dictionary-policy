@@ -55,6 +55,6 @@
 
 * **開発者名:** UNOES
 * **連絡先メールアドレス:** unoesjapan@gmail.com
-* **有効なウェブサイト:** 
+* **有効なウェブサイト:** https://github.com/SeijiShii/unoes-dictionary-policy/
 
 **最終更新日: 2025-10-27**
