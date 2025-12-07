@@ -1,3 +1,8 @@
+---
+layout: default
+title: Subscription Cancellation
+---
+
 # 📋 Subscription Cancellation
 
 Information about canceling your UNOES Dictionary subscription.

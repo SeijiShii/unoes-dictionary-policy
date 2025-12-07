@@ -1,3 +1,8 @@
+---
+layout: default
+title: UNOES Dictionary Privacy Policy
+---
+
 # 📄 UNOES Dictionary Privacy Policy
 
 This privacy policy explains how UNOES Dictionary (hereinafter referred to as "this app" or "we") collects and handles user information through this app.

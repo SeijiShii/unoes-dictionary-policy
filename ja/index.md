@@ -1,3 +1,8 @@
+---
+layout: default
+title: UNOES Dictionary プライバシーポリシー
+---
+
 # 📄 UNOES Dictionary プライバシーポリシー
 
 このプライバシーポリシーは、UNOES Dictionary（以下、「本アプリ」または「当社」）が、本アプリを通じて収集するユーザー情報とその取扱いについて説明するものです。

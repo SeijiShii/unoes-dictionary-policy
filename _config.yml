@@ -21,6 +21,6 @@ exclude:
   - .gitignore
   - .vscode
 
-# テーマ（必要に応じて）
-theme: minima
+# テーマを無効化（カスタムレイアウトを使用）
+# theme: minima
 
