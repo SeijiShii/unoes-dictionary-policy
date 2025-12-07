@@ -1,0 +1,26 @@
+# GitHub Pages Jekyll Configuration
+title: UNOES Dictionary Policy
+description: Privacy Policy and Subscription Cancellation Information
+baseurl: "" # サブディレクトリを使用しない場合は空文字
+url: "https://seijishii.github.io" # GitHub PagesのベースURL
+
+# Markdown設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# プラグイン
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# 除外ファイル
+exclude:
+  - README.md
+  - .gitignore
+  - .vscode
+
+# テーマ（必要に応じて）
+theme: minima
+

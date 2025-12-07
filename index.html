@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNOES Dictionary Policy</title>
+    <script>
+        // ブラウザの言語設定を取得
+        const lang = navigator.language || navigator.userLanguage;
+        const langCode = lang.split('-')[0];
+
+        // 日本語の場合はja、それ以外はenにリダイレクト
+        if (langCode === 'ja') {
+            window.location.href = '/unoes-dictionary-policy/ja/';
+        } else {
+            window.location.href = '/unoes-dictionary-policy/en/';
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+    <p>If you are not redirected, please click one of the following links:</p>
+    <ul>
+        <li><a href="/unoes-dictionary-policy/en/">English</a></li>
+        <li><a href="/unoes-dictionary-policy/ja/">日本語</a></li>
+    </ul>
+</body>
+</html>
+
