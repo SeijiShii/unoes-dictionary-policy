@@ -1,5 +1,9 @@
 # Androidアプリ クローズドテスト手順書
 
+**公開URL**: https://seijishii.github.io/unoes-dictionary-policy/app-test/android_closed_test.html
+
+---
+
 この度は、UNOES辞書アプリのクローズドテストにご協力いただき、誠にありがとうございます。
 お忙しい中、お時間をいただきまして心より感謝申し上げます。
 
