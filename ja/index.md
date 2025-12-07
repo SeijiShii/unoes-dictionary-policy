@@ -101,3 +101,8 @@
 * **有効なウェブサイト:** https://seijishii.github.io/unoes-dictionary-policy/
 
 **最終更新日: 2025-12-03**
+
+---
+
+**Language / 言語:**
+- [English](../en/index.md) | [日本語](./index.md)
