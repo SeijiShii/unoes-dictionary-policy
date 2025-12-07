@@ -80,12 +80,12 @@ A: アプリ内の「サブスクリプション状態」画面から完全に�
 ---
 
 **関連リンク:**
-- [プライバシーポリシー](./index.md)
-- [Subscription Cancellation (English)](../en/subscription_cancellation.md)
+- [プライバシーポリシー](https://seijishii.github.io/unoes-dictionary-policy/ja/)
+- [Subscription Cancellation (English)](https://seijishii.github.io/unoes-dictionary-policy/en/subscription_cancellation)
 - [Google Play 購入管理ページ](https://play.google.com/store/account/subscriptions)
 
 ---
 
 **Language / 言語:**
-- [English](../en/subscription_cancellation.md) | [日本語](./subscription_cancellation.md)
+- [English](https://seijishii.github.io/unoes-dictionary-policy/en/subscription_cancellation) | [日本語](https://seijishii.github.io/unoes-dictionary-policy/ja/subscription_cancellation)
 

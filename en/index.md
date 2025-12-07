@@ -110,5 +110,5 @@ For questions, inquiries, or requests regarding personal information related to 
 ---
 
 **Language / 言語:**
-- [English](./index.md) | [日本語](../ja/index.md)
+- [English](https://seijishii.github.io/unoes-dictionary-policy/en/) | [日本語](https://seijishii.github.io/unoes-dictionary-policy/ja/)
 

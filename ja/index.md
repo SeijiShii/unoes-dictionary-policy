@@ -110,4 +110,4 @@ title: UNOES Dictionary プライバシーポリシー
 ---
 
 **Language / 言語:**
-- [English](../en/index.md) | [日本語](./index.md)
+- [English](https://seijishii.github.io/unoes-dictionary-policy/en/) | [日本語](https://seijishii.github.io/unoes-dictionary-policy/ja/)

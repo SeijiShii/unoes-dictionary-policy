@@ -80,12 +80,12 @@ For questions or inquiries about subscriptions, please contact us at:
 ---
 
 **Related Links:**
-- [Privacy Policy](./index.md)
-- [Subscription Cancellation (日本語)](../ja/subscription_cancellation.md)
+- [Privacy Policy](https://seijishii.github.io/unoes-dictionary-policy/en/)
+- [Subscription Cancellation (日本語)](https://seijishii.github.io/unoes-dictionary-policy/ja/subscription_cancellation)
 - [Google Play Purchase Management Page](https://play.google.com/store/account/subscriptions)
 
 ---
 
 **Language / 言語:**
-- [English](./subscription_cancellation.md) | [日本語](../ja/subscription_cancellation.md)
+- [English](https://seijishii.github.io/unoes-dictionary-policy/en/subscription_cancellation) | [日本語](https://seijishii.github.io/unoes-dictionary-policy/ja/subscription_cancellation)
 
