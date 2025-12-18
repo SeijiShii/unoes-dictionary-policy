@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Androidアプリ クローズドテスト手順書
+title: UNOES Dictionary App Test Instructions
 ---
 
-# UNOES辞書アプリ テスト手順書
+# UNOES Dictionary App Test Instructions
 
-## Androidアプリ クローズドテスト
+## Select Language / 言語を選択
 
-**公開URL**: https://seijishii.github.io/unoes-dictionary-policy/app-test/android_closed_test.html
-
-[テスト手順書はこちら](./android_closed_test.html)
+- [📖 English](./en/index.html)
+- [📖 日本語](./ja/index.html)
 
 ---
 
-このページは、Androidアプリのクローズドテスト手順書を公開しています。
+**English**: This directory contains test instructions for the UNOES dictionary app that are published on GitHub Pages.
+
+**日本語**: このディレクトリは、GitHub Pagesで公開されるUNOES辞書アプリのテスト手順書を格納しています。
 

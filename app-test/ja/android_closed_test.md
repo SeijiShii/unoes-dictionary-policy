@@ -1,6 +1,6 @@
 # Androidアプリ クローズドテスト手順書
 
-**公開URL**: https://seijishii.github.io/unoes-dictionary-policy/app-test/android_closed_test.html
+**公開URL**: https://seijishii.github.io/unoes-dictionary-policy/app-test/ja/android_closed_test.html
 
 ---
 
@@ -55,3 +55,5 @@ Google Play Storeでアプリを本番公開するには、十数人のユーザ
 ## 🙏 最後に
 
 本テストにご協力いただき、ありがとうございます。ご不明な点はお気軽にお問い合わせください。
+
+
