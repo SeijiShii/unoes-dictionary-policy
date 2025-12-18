@@ -56,4 +56,8 @@ Google Play Storeでアプリを本番公開するには、十数人のユーザ
 
 本テストにご協力いただき、ありがとうございます。ご不明な点はお気軽にお問い合わせください。
 
+---
+
+**言語**: [English🌐](../en/android_closed_test.html) | [目次に戻る](./index.html)
+
 

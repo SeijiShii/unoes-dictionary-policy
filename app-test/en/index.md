@@ -15,4 +15,8 @@ title: Android App Closed Test Instructions
 
 This page publishes the closed test instructions for the Android app.
 
+---
+
+**Language**: [日本語🌐](../ja/index.html)
+
 

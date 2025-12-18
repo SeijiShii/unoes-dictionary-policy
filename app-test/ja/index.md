@@ -15,4 +15,8 @@ title: Androidアプリ クローズドテスト手順書
 
 このページは、Androidアプリのクローズドテスト手順書を公開しています。
 
+---
+
+**言語**: [English🌐](../en/index.html)
+
 

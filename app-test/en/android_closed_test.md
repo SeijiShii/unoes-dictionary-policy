@@ -56,4 +56,8 @@ If you encounter any problems during testing, we would appreciate any informatio
 
 Thank you for your cooperation in testing this app. If you have any questions, please feel free to contact us.
 
+---
+
+**Language**: [日本語🌐](../ja/android_closed_test.html) | [Back to Index](./index.html)
+
 
