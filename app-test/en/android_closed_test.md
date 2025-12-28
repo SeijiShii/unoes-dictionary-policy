@@ -41,7 +41,7 @@ We would appreciate it if you could also test the subscription feature.
 
 - Purchases made with test accounts will not result in actual charges
 - Test periods are set very short: the 1-month plan expires in about 5 minutes, and the 1-year plan expires in about 30 minutes
-- Auto-renewal is enabled, so you will receive an email each time it renews (which can be quite annoying)
+- Test environment subscriptions have auto-renewal enabled, but will automatically cancel after a maximum of 6 renewals. (In production, subscriptions will continue until manually cancelled.)
 - **Please cancel your subscription after testing is complete**
 
 ---
